@@ -1,0 +1,21 @@
+apiVersion: apps/v1 #form here deploment configuration stats
+kind: Deployment
+metadata:
+   name: myapp-deployment
+   labels:
+     tier: frontend
+     app: nginx
+spec:
+  selector:
+    matchLabels:
+      app: myapp #this should be same as labels in metadata form template section
+  replicas: 3 #here denote how many replicas is going to create
+  template: #from here is pod section starting 
+     metadata:
+        name: nginx-2
+        labels: 
+           app: myapp
+     spec: # from here container is started
+       containers:
+         - name: nginx
+           image: nginx
