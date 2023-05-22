@@ -1,0 +1,19 @@
+1:"hello this is key value pair"
+---
+#list
+- apple
+- mango
+- banana
+- Apple #case sensetive
+
+--- # represent the different data type
+
+cities:  # this are likke object
+  - new delhi 
+  - mumbai
+  - gujrat
+---
+cities: [new delhi,mumbai] # similar has above if want to dont relie on indentation
+---
+{mango: "yellow fruit", age: 52}
+... # this shows that data is ended
