@@ -1,0 +1,12 @@
+apiVersion: apps/v1
+kind: pod 
+metadata:
+  name: myapp_pod 
+  labels:
+    app: myapp
+    type: frontend
+spec:
+  containers:
+  # HERE WE ARE USING AREA BCOZ WE CAN ADD THE MULTIPLE POD WITH DIFFERENT CONTIANER
+   -   name: nginx
+       image: nginx-2
