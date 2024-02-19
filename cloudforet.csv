@@ -1,17 +1,12 @@
 ﻿cost,currency,usage_quantity,provider,region_code,product,account,year,month,day
-900,USD,4755208,csv,ap-northeast2,AmazonEC2,123456789,2023,3,5
-400,USD,890010,csv,ap-northeast2,AmazonEC2,123456789,2023,1,8
-740,USD,7212305,csv,ap-northeast2,AmazonEC2,123456789,2023,10,5
-555,USD,321200,csv,ap-northeast2,AmazonEC2,123456789,2023,2,15
-888,USD,411200,csv,ap-northeast2,AmazonEC2,123456789,2023,11,25
-200,USD,4755208,csv,ap-northeast2,AmazonEC2,123456789,2023,10,19
-489,USD,890010,csv,ap-northeast2,AmazonEC2,123456789,2023,3,21
-240,USD,7212305,csv,ap-northeast2,AmazonEC2,123456789,2023,12,8
-995,USD,321200,csv,ap-northeast2,AmazonEC2,123456789,2023,10,30
-118,USD,411200,csv,ap-northeast2,AmazonEC2,123456789,2023,7,31
-111,USD,4755208,csv,ap-northeast2,AmazonEC2,123456789,2023,3,5
-330,USD,890010,csv,ap-northeast2,AmazonEC2,123456789,2023,1,8
-940,USD,7212305,csv,ap-northeast2,AmazonEC2,123456789,2023,10,5
-775,USD,321200,csv,ap-northeast2,AmazonEC2,123456789,2023,2,15
-008,USD,411200,csv,ap-northeast2,AmazonEC2,123456789,2023,11,25
+900,USD,4755208,csv,ap-northeast2,AmazonEC2,123456789,2023,10,1
+400,USD,890010,csv,ap-northeast2,AmazonEC2,123456789,2023,10,2
+740,USD,7212305,csv,ap-northeast2,AmazonEC2,123456789,2023,10,3
+555,USD,321200,csv,ap-northeast2,AmazonEC2,123456789,2023,10,4
+888,USD,411200,csv,ap-northeast2,AmazonEC2,123456789,2023,10,5
+200,USD,4755208,csv,ap-northeast2,AmazonEC2,123456789,2023,10,6
+489,USD,890010,csv,ap-northeast2,AmazonEC2,123456789,2023,10,7
+240,USD,7212305,csv,ap-northeast2,AmazonEC2,123456789,2023,10,8
+995,USD,321200,csv,ap-northeast2,AmazonEC2,123456789,2023,10,9
+
 
